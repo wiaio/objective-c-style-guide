@@ -1,6 +1,6 @@
 # Wia Objective-C Style Guide
 
-> Forked from [NYTime's Style Guide](https://github.com/airbnb/javascript)
+> Forked from [NYTime's Style Guide](https://github.com/NYTimes/objective-c-style-guide)
 
 ## Introduction
 
